@@ -34,7 +34,7 @@
 </td>
 
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cloud.gif" width="300"/>
 </td>
 </tr>
 </table>
