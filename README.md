@@ -107,7 +107,6 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-125&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-125&layout=compact)
-
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kartik-125&theme=shadow_blue"/>
+</p>
