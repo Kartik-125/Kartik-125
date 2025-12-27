@@ -107,9 +107,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-125&show_icons=true&theme=shadow_blue" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-125&layout=compact&theme=shadow_blue" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-125&show_icons=true&theme=shadow_blue&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-125&layout=compact&theme=shadow_blue&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
+
 
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Kartik-125&theme=shadow_blue"/>
