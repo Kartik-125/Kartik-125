@@ -34,7 +34,10 @@
 </td>
 
 <td width="40%" align="center">
+
+<!-- 🔥 NEW GIF (Cloud / DevOps themed) -->
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/cloud.gif" width="300"/>
+
 </td>
 </tr>
 </table>
