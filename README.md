@@ -35,7 +35,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Developer.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
 </td>
 
